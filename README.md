@@ -1,4 +1,4 @@
-Realizamos a construção de um site do projeto do curso de Itrodução a programação Talento Cloud 2024 - Proz Turma 34.
+Realizamos a construção de um site do projeto do curso de Introdução a programação Talento Cloud 2024 - Proz Turma 34.
 
 One Pets é uma ideia de e-commerce dedicada à venda de personalizados para animais de estimação.
 
